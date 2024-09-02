@@ -22,5 +22,4 @@ def step_then_product_added(context):
 
 @then('se debería mostrar un mensaje de error indicando que el registro ya existe')
 def step_then_error_message_shown(context):
-    # Aquí puedes usar un mock para verificar la salida o el comportamiento de error.
     pass
