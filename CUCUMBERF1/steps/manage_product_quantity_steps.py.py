@@ -28,5 +28,4 @@ def step_then_product_quantity(context, registro, cantidad):
 
 @then('se debería mostrar un mensaje de error indicando que el producto no existe')
 def step_then_error_message_product_not_found(context):
-    # Aquí puedes usar un mock para verificar la salida o el comportamiento de error.
     pass
